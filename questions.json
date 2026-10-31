@@ -1,0 +1,12 @@
+[
+ {"id":1,"q":"Which transport protocol is connection-oriented?","options":{"A":"UDP","B":"TCP","C":"ICMP","D":"ARP"},"answer":"B"},
+ {"id":2,"q":"Default protocol used between an SDN switch and controller?","options":{"A":"OpenFlow","B":"SNMP","C":"BGP","D":"RIP"},"answer":"A"},
+ {"id":3,"q":"TCP connection setup uses a ___ handshake.","options":{"A":"2-way","B":"3-way","C":"4-way","D":"5-way"},"answer":"B"},
+ {"id":4,"q":"Which layer does the SDN controller sit in?","options":{"A":"Data plane","B":"Control plane","C":"Physical","D":"Application plane only"},"answer":"B"},
+ {"id":5,"q":"Which socket call blocks waiting for an incoming TCP connection?","options":{"A":"bind()","B":"listen()","C":"accept()","D":"connect()"},"answer":"C"},
+ {"id":6,"q":"Mininet is used to:","options":{"A":"Compile kernels","B":"Emulate networks","C":"Encrypt traffic","D":"Host websites"},"answer":"B"},
+ {"id":7,"q":"What does a flow table entry consist of?","options":{"A":"Match, actions, counters","B":"IP only","C":"MAC only","D":"DNS records"},"answer":"A"},
+ {"id":8,"q":"Which is NOT a TCP feature?","options":{"A":"Flow control","B":"Congestion control","C":"Reliable delivery","D":"Connectionless delivery"},"answer":"D"},
+ {"id":9,"q":"Port 5000 here identifies:","options":{"A":"The exam server application","B":"The controller","C":"DNS","D":"The switch"},"answer":"A"},
+ {"id":10,"q":"Which tool generates bulk traffic to test congestion?","options":{"A":"iperf","B":"ls","C":"grep","D":"tar"},"answer":"A"}
+]
